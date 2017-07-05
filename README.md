@@ -33,5 +33,5 @@ webpack
 CONTACT
 -------
 For bug reports or feature requests please refer to the tracking system
-at [Github][githubissues] or email us at support(at)easycrypt(dot)co
+at [Github](https://github.com/EasyCrypt-co/ec-account/issues) or email us at support(at)easycrypt(dot)co
 
